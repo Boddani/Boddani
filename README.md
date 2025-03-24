@@ -19,4 +19,5 @@
 
 ## 📫 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/balakrishna-boddani-357665219/)  
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/i_am_kr_i_sh_n_a/?hl=en)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/i_am_kr_i_sh_n_a/?hl=en)  
+[![Naukri](https://img.shields.io/badge/-Naukri-0056D2?style=flat-square&logo=about.me&logoColor=white)](https://www.naukri.com/mnjuser/profile)
