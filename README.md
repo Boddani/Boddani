@@ -5,12 +5,14 @@
 - 🌱 Currently learning full-stack Python.  
 - 💬 Ask me about Python, Web Development, and Testing.  
 - 📧 Reach me at: bbalakrishna512@gmail.com  
-- 🌍 I love traveling, cooking, playing volleyball, and exploring new tech!  
+- 🌍 I love traveling, cooking, playing volleyball, and exploring new tech!
+
+- <p align="right">
+  <img src="https://example.com/my-image.png" alt="My Profile Image" width="200">
+</p>
+
 
 ## 🛠️ Tech Stack  
-
-
-
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
