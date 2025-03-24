@@ -4,11 +4,4 @@
 - 💞️ I’m looking to collaborate on projects related to web development and testing.  
 - 📫 How to reach me: bbalakrishna512@gmail.com  
 - 😄 Pronouns: He/Him  
-- ⚡ Fun fact: I love cooking, playing cricket, and exploring new technologies!
-- 
-
-
-<!---
-Boddani/Boddani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- ⚡ Fun fact: I love cooking, playing Volleyball, 🌍 traveling, and exploring new technologies!  
