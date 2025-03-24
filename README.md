@@ -7,7 +7,7 @@
 - 📧 Reach me at: bbalakrishna512@gmail.com  
 - 🌍 I love traveling, cooking, playing volleyball, and exploring new tech!
  <p align="right">
-  <img src="[https://example.com/my-image.png](https://shorturl.at/dFP6l)" alt="My Profile Image" width="200">
+  <img src="[[https://example.com/my-image.png](https://shorturl.at/dFP6l)](https://rb.gy/hk52jm)" alt="My Profile Image" width="200">
 </p>
 
 
