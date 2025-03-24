@@ -1,14 +1,22 @@
 # 👋 Hi, I’m Boddani Balakrishna!
 
-## 🌟 About Me  
-- 🚀 Passionate about Python Full-Stack Development and QA.  
-- 🌱 Currently learning full-stack Python.  
-- 💬 Ask me about Python, Web Development, and Testing.  
-- 📧 Reach me at: bbalakrishna512@gmail.com  
-- 🌍 I love traveling, cooking, playing volleyball, and exploring new tech!
- <p align="right">
-  <img src="https://syntaxminds.com/wp-content/uploads/2024/09/Career-Scope-for-Full-Stack-Developers.webp" alt="My Profile Image" width="200">
-</p>
+<table>
+  <tr>
+    <td>
+      <h2>🌟 About Me</h2>
+      <ul>
+        <li>🚀 Passionate about Python Full-Stack Development and QA.</li>
+        <li>🌱 Currently learning full-stack Python.</li>
+        <li>💬 Ask me about Python, Web Development, and Testing.</li>
+        <li>📧 Reach me at: bbalakrishna512@gmail.com</li>
+        <li>🌍 I love traveling, cooking, playing volleyball, and exploring new tech!</li>
+      </ul>
+    </td>
+    <td>
+      <img src="https://syntaxminds.com/wp-content/uploads/2024/09/Career-Scope-for-Full-Stack-Developers.webp" alt="My Profile Image" width="200">
+    </td>
+  </tr>
+</table>
 
 
 ## 🛠️ Tech Stack  
